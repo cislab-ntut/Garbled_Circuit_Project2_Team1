@@ -6,5 +6,5 @@ Truth Table
 ![](https://i.imgur.com/9XtFMPJ.jpg)
 ![](https://i.imgur.com/APXTwSE.jpg)
 
-除法
-[Reference](http://www.elecfans.com/baike/computer/taishiji/20100413215660.html)
+
+[除法](http://www.elecfans.com/baike/computer/taishiji/20100413215660.html)
