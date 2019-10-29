@@ -9,3 +9,4 @@ Truth Table
 
 
 [除法](http://www.elecfans.com/baike/computer/taishiji/20100413215660.html)
+![](https://i.imgur.com/Y2VWCXe.jpg)
