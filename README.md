@@ -12,7 +12,7 @@ Truth Table
 ![](https://i.imgur.com/Y2VWCXe.jpg)
 
 ## 步驟 ##
-1.設k=2，用K-map化簡出電路</br>
+1.設k=2，用K-map化簡出電路</br></br>
 2.為最外層（最靠近input）的所有gates randomly產生對應並替換0和1的key，打亂順序後生成Garbled truth tables</br></br>
 3.每一層的gates的Garbled truth tables的輸入key值得對應關係要依據上一層gates的Garbled truth tables的輸出來決定。</br></br>
 4.將所有gates的topology與Garbled truth tables作為參數傳給Server（Circuit.py)的計算function，並得到計算結果的key</br></br>
